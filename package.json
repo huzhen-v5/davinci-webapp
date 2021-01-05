@@ -57,7 +57,7 @@
     "@babel/polyfill": "7.0.0",
     "@hot-loader/react-dom": "16.8.6",
     "antd": "^3.17.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bootstrap-datepicker": "^1.8.0",
     "chalk": "2.4.1",
     "classnames": "^2.2.5",
